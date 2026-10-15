@@ -65,12 +65,10 @@ const developer = {
 
 ## 💼 Dự án nổi bật
 
-### 🌟 [Water Quality Index Analysis](https://github.com/dCyberTech/WQI_Analysis)
-> Phân tích chất lượng nước sử dụng machine learning và data visualization. Xây dựng model dự đoán WQI với độ chính xác cao và dashboard interactive để monitoring real-time.
+### 🌟 [EdTech Platform - Julie Academy](https://github.com/dCyberTech/JulieAcademy)
+> Xây dựng nền tảng học tập kết nối giữa gia sư và học sinh. Tích hợp mô hình học tập thích ứng hỗ trợ học sinh trong việc tự học.
 
-**Machine Learning:** Python, Pandas, Scikit-learn, matplotlib
-
-**Tech Stack:** React, Node.js, Express, MySQL, Kafka, Docker
+**Tech Stack:** React, NestJS, Postgres, Redis, RabbitMQ, AWS
 
 ## 📈 Hoạt động gần đây
 
